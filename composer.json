@@ -1,5 +1,5 @@
 { 
-    "namn": "Nattarintra / Customizer-polylang",
+    "namn": "Nattarintra/customizer-polylang",
     "description": "Fork i Soderlind / Customizer-polylang med composer.kson", 
     "type": "projekt", 
     "kräver": {}, 
